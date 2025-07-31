@@ -15,7 +15,7 @@ Hi there! I'm a passionate **full-stack developer** with a strong foundation in 
 I am proficient in developing modern web applications using:
 
 * **Frameworks:** Next.js, React
-* **Languages:** JavaScript, Node.js
+* **Languages:** JavaScript
 * **Styling:** Tailwind CSS, Styled-Components, CSS Modules
 * **Databases:** MongoDB, PostgreSQL
   
@@ -43,5 +43,12 @@ I'm enthusiastic about applying data-driven approaches to real-world problems an
 
 ---
 
-* **Kaggle:** [https://www.kaggle.com/sdev807/]
-* **Email:** [muneebse65@gmail.com]
+<a href="https://www.kaggle.com/sdev807" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="120" />
+</a>
+<br>
+<p style="display: flex; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" style="height: 30px; line-height: 30px;"/>
+  <span style="margin-left: 10px;">muneebse65@gmail.com</span>
+</p>
+
